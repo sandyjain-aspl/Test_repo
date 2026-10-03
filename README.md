@@ -1,5 +1,5 @@
 # Portfolio rebalancing
-Monthly rebalancing of the portfolio 
+Weekly rebalancing of the portfolio 
 **Buy/Sell suggestions**
 Steps to manage three self-directed brokerage accounts across A, B, and C. Comabine and Analyze them as a single combined portfolio.
 Optimization function risk management first, returns second. Target allocation is X (growth/aggressive etc). No major planned withdrawals for x years
