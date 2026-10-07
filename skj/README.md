@@ -20,8 +20,17 @@ Recommendations are a snapshot from **Oct 7, 2026**, kept in Amazon's order. Two
 
 Four results (Primal Zen, Primal Zen Suede, Trail Blazer, adidas Barreda) appeared under the On sale filter but showed only one price on shop.com, so they are listed without a discount.
 
+## Live site
+
+Hosted on GitHub Pages from the `main` branch of this repo:
+
+- https://sandyjain-aspl.github.io/Test_repo/skj/
+- https://sandyjain-aspl.github.io/Test_repo/ redirects to the address above
+
+Changes merged to `main` go live within a minute or two.
+
 ## Deploy to skj.com
 
-1. Host the `skj/` folder on any static host (GitHub Pages, Netlify, Cloudflare Pages, Vercel).
+1. The site is already hosted on GitHub Pages (see above).
 2. Register skj.com with a domain registrar, if it is available.
-3. Point the domain's DNS at the host using that host's custom-domain instructions.
+3. In the repo's Settings > Pages, add skj.com as the custom domain, then point the domain's DNS at GitHub Pages following GitHub's custom-domain instructions.
